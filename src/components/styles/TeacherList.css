@@ -1,0 +1,18 @@
+.teacher-list-container {
+  padding: 20px;
+}
+
+.teacher-list-container h2 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.teacher-list-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.teacher-list-container li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}

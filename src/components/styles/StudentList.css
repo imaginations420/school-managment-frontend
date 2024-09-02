@@ -1,0 +1,17 @@
+.student-list-container {
+  padding: 20px;
+}
+
+.student-list-container h2 {
+  text-align: center;
+}
+
+.student-list-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.student-list-container li {
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
